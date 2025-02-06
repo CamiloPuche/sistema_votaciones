@@ -12,8 +12,8 @@ Este es un sistema de votaciones desarrollado con Node.js, Express, Sequelize y 
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-votaciones.git
-cd sistema-votaciones
+https://github.com/CamiloPuche/sistema_votaciones.git
+cd sistema_votaciones
 
 2. Instalar Dependencias
 
