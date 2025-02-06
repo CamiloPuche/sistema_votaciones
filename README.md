@@ -107,6 +107,9 @@ sistema-votaciones/
 │   │   └── voterRoutes.js
 │   └── swagger.js
 └── README.md
+```
+
+### En la carpeta capturas se encuentran las evidencias de las respuestas del API
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
