@@ -12,8 +12,8 @@ Este es un sistema de votaciones desarrollado con Node.js, Express, Sequelize y 
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-votaciones.git
-cd sistema-votaciones
+https://github.com/CamiloPuche/sistema_votaciones.git
+cd sistema_votaciones
 
 2. Instalar Dependencias
 
@@ -24,7 +24,7 @@ Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
 
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=camilo2001
+DB_PASSWORD=
 DB_NAME=sistema-votaciones
 JWT_SECRET=tu_secreto_jwt
 PORT=3000
