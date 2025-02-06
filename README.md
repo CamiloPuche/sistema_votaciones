@@ -24,7 +24,7 @@ Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
 
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=camilo2001
+DB_PASSWORD=
 DB_NAME=sistema-votaciones
 JWT_SECRET=tu_secreto_jwt
 PORT=3000
